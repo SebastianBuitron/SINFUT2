@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SINFUT</string>
+    <string name="txt_cubo">    CANCHAS SINTETICAS EL CUBO
+        Canchas: 5
+        Direccion: Cra 8 # 43B
+        Valoracion: </string>
+
+    <string name="btn_reservar">RESERVAR</string>
+</resources>
