@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">SINFUT</string>
-    <string name="txt_cubo">    CANCHAS SINTETICAS EL CUBO
-        Canchas: 5
-        Direccion: Cra 8 # 43B
-        Valoracion: </string>
+    <string name="txt_nombre_el_cubo">CANCHAS SINTETICAS EL CUBO</string>
+    <string name="txt_La_Bombonera">CANCHAS SINTETICAS EL LA BOMBONERA</string>
+    <string name="btn_reservar">VER</string>
+    <string name="txt_nombre_kopana">CANCHAS SINTETICAS KOPANA </string>
+    <string name="txt_nombre_maracana">CANCHAS SINTETICAS MARACANA</string>
+    <string name="txt_nombre_laestancia">CANCHAS SINTETICAS LA ESTANCIA</string>
+    <string name="txt_nombre_villa">CANCHAS SINTETICAS LA VILLA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="btn_reservar">RESERVAR</string>
+
 </resources>
